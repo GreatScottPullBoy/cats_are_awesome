@@ -1,6 +1,6 @@
 ---
 name: Cats Cats Cats
-description: Cat
+about: Cat
 title: [CAT]
 labels: cats-only
 ---
