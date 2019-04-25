@@ -1,6 +1,6 @@
 ---
 name: Cats Cats Cats
-about: Cat
+about: 
 title: '[CAT]'
 labels: cats-only
 ---
